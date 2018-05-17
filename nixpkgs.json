@@ -1,0 +1,7 @@
+{
+  "url": "git@github.com:BitKitchen/nixpkgs-channels.git",
+  "rev": "160254dbbb28937fb52caf83fa68dabc78c3541f",
+  "date": "2018-05-14T15:28:43-07:00",
+  "sha256": "1w3p8zsiify3qj58hsiwpyd2r3zp87za1hgx8h9x0vfckxbas69s",
+  "fetchSubmodules": true
+}

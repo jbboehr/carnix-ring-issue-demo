@@ -1,0 +1,9 @@
+[package]
+name = "carnix-ring-issue-demo"
+version = "0.0.0"
+
+[dependencies]
+rocket = "0.3.10"
+rocket_codegen = "0.3.6"
+rocket_contrib = "0.3.6"
+
